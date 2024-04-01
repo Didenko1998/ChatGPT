@@ -56,6 +56,8 @@ input {
     color: #c9c9c9;
     font-size: 1em;
     outline: none;
+    display: flex;
+    flex-wrap: nowrap;
 }
 .chat-content__block {
     width: 82%;
