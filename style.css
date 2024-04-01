@@ -43,7 +43,7 @@ input::placeholder {
     color: #9e9e9e;
 }
 input {
-    width: 60%;
+    width: 80%;
     height: 50px;
     margin-left: 0;
     font-weight: 500;
@@ -62,7 +62,7 @@ input {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 3vh;
+    padding: 0 3vh 0 2vh;
 }
 .chat-content {
     width: 100%;
@@ -116,7 +116,3 @@ li {
         padding: 0 2vh;
     }
 }
-
-
-
-
