@@ -89,7 +89,7 @@ input {
     font-size: 1em;
     display: flex;
     justify-content: flex-end;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     
 }
 ul {
