@@ -54,11 +54,8 @@ input {
     border-style: none;    
     color: #c9c9c9;
     background: #393944;
-    border: 1px solid rgb(83, 83, 83);
     font-size: 1em;
     outline: none;
-    display: flex;
-    flex-wrap: nowrap;
 }
 .chat-content__block {
     width: 82%;
@@ -71,7 +68,6 @@ input {
     align-items: center;
     justify-content: space-between;
     padding: 0 12px 0 2vh;
-    z-index: 9;
 }
 .chat-content {
     width: 100%;
@@ -79,8 +75,6 @@ input {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #393944;
-
 }
 .arrow-img {
     height: 20px;
