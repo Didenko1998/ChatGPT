@@ -69,6 +69,7 @@ input {
 }
 .chat-content {
     width: 100%;
+    padding-top: 2vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -80,7 +81,7 @@ input {
 }
 #chat-main {
     height: 85vh;
-    padding: 2vh 6vh;
+    padding: 0vh 6vh;
     margin-right: auto;
     color: #c9c9c9;
     font-size: 1em;
