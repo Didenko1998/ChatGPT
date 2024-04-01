@@ -59,6 +59,7 @@ input {
 }
 .chat-content__block {
     width: 82%;
+    max-height: 54px;
     text-align: center;
     border: 1px solid rgb(83, 83, 83);
     background: #393944;
