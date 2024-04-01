@@ -72,7 +72,7 @@ input {
     display: flex;
     flex-direction: column;
     align-items: center;
-
+    background: #393944;
 }
 .arrow-img {
     height: 20px;
