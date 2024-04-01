@@ -70,6 +70,7 @@ input {
     align-items: center;
     justify-content: space-between;
     padding: 0 12px 0 2vh;
+    z-index: 9;
 }
 .chat-content {
     width: 100%;
