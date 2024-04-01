@@ -111,7 +111,7 @@ li {
     }
     #chat-main {
         height: 85vh;
-        padding: 8vh 6vh;
+        padding: 2vh 16vh;
     }
     .chat-content__block {
         width: 82%;
