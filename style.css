@@ -22,12 +22,12 @@ p {
     color: #afafaf;
     font-weight: 600;
     height: 3vh;
-    padding: 0 5vh;
+    padding: 0 5vh 10px 5vh;
 }
 .input-content {
     background: #393944;
     width: 94%;
-    height: 95vh;
+    height: 90vh;
     margin: 0 auto;
     padding-bottom: 0;
     display: flex;
