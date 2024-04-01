@@ -27,9 +27,9 @@ p {
 .input-content {
     background: #393944;
     width: 94%;
-    height: 95vh;
+    height: 90vh;
     margin: 0 auto;
-    padding-bottom: 1vh;
+    padding-bottom: 0;
     display: flex;
     align-items: flex-end;
     text-align: center;
@@ -67,7 +67,7 @@ input {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 12px 5vh 2vh;
+    padding: 0 12px 0 2vh;
 }
 .chat-content {
     width: 100%;
