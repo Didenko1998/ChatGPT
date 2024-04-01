@@ -62,7 +62,7 @@ input {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 3vh 0 2vh;
+    padding: 0 12px 0 2vh;
 }
 .chat-content {
     width: 100%;
@@ -113,6 +113,9 @@ li {
     }
     .chat-content__block {
         width: 82%;
-        padding: 0 2vh;
+        padding: 0 12px 0 2vh;
     }
 }
+
+
+
