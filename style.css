@@ -8,8 +8,8 @@ button {
     background-color: rgb(83, 83, 83);
     border-style: none;
     border-radius: 0.5em;
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +60,7 @@ input {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 12px 0 2vh;
+    padding: 5px 12px 5px 2vh;
 }
 .chat-content {
     width: 100%;
@@ -70,8 +70,8 @@ input {
     align-items: center;
 }
 .arrow-img {
-    height: 20px;
-    width: 20px;
+    height: 22px;
+    width: 22px;
 }
 #chat-main {
     padding: 2vh 8vh;
