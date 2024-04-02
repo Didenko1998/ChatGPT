@@ -25,7 +25,7 @@ p {
 }
 .input-content {
     background: #393944;
-    width: 95vw;
+    width: 95%;
     height: 95vh;
     margin: 0 auto;
     display: flex;
