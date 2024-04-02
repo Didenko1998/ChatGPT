@@ -22,12 +22,12 @@ p {
     color: #afafaf;
     font-weight: 600;
     height: 3vh;
-    padding: 0 5vh 10px 5vh;
+    padding-bottom: 10px;
 }
 .input-content {
     background: #393944;
-    width: 94%;
-    height: 90vh;
+    width: 94vh;
+    height: 94vh;
     margin: 0 auto;
     padding-bottom: 0;
     display: flex;
@@ -36,7 +36,7 @@ p {
     flex-direction: column;
     flex-wrap: nowrap;
     box-sizing: border-box;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 button:hover,
 active {
@@ -51,23 +51,25 @@ input {
     height: 50px;
     margin-left: 0;
     font-weight: 500;
+    background: #393944;
     border-style: none;    
     color: #c9c9c9;
-    background: #393944;
     font-size: 1em;
     outline: none;
     overflow: hidden;
 }
 .chat-content__block {
     width: 82%;
-    max-height: 54px;
+    height: 54px;
     text-align: center;
     border: 1px solid rgb(83, 83, 83);
+    background: #393944;
     border-radius: 14px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 12px 0 2vh;
+    z-index: 9;
 }
 .chat-content {
     width: 100%;
@@ -81,8 +83,7 @@ input {
     width: 20px;
 }
 #chat-main {
-    height: 70vh;
-    padding: 2vh 6vh;
+    padding: 2vh 12vh;
     margin-right: auto;
     color: #c9c9c9;
     font-size: 1em;
@@ -118,12 +119,8 @@ li {
         height: 95vh;
     }
     #chat-main {
-        height: 85vh;
-        padding: 2vh 12vh;
-    }
-    .chat-content__block {
-        width: 82%;
-        padding: 0 12px 0 1vh;
+        height: 15vh;
+        padding: 4vh 10vh;
     }
 }
 
