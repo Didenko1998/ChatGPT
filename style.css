@@ -44,9 +44,6 @@ input::placeholder {
     color: #9e9e9e;
 }
 input {
-    width: 80%;
-    height: 50px;
-    margin-left: 0;
     font-weight: 500;
     background: #393944;
     border-style: none;    
@@ -58,7 +55,7 @@ input {
     width: 82%;
     height: 54px;
     text-align: center;
-    border: 1px solid red;
+    border: 1px solid rgb(83, 83, 83);
     background: #393944;
     border-radius: 14px;
     display: flex;
