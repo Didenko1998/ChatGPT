@@ -36,7 +36,7 @@ p {
     flex-direction: column;
     flex-wrap: nowrap;
     box-sizing: border-box;
-    justify-content: flex-end;
+    justify-content: flex-start;
 }
 button:hover,
 active {
