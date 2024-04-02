@@ -26,8 +26,8 @@ p {
 }
 .input-content {
     background: #393944;
-    width: 94vh;
-    height: 94vh;
+    width: 94%;
+    height: 90vh;
     margin: 0 auto;
     padding-bottom: 0;
     display: flex;
